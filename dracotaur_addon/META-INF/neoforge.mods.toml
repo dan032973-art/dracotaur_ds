@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="All rights reserved"
+
+[[mods]]
+modId="dracotaur_ds"
+version="1.0.0"
+displayName="Dracotaur Mod"
+authors="YourName"
+description="Adds the Dracotaur species."
+
+[[dependencies.dracotaur_ds]]
+modId="neoforge"
+type="required"
+versionRange="[21,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.dracotaur_ds]]
+modId="dragonsurvival"
+type="required"
+versionRange="[1.0,)"
+ordering="AFTER"
+side="BOTH"

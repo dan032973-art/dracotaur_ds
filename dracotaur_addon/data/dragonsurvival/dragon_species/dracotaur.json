@@ -1,0 +1,29 @@
+{
+  "type": "dragonsurvival:species",
+  "playable": true,
+  "display_name": "Dracotaur",
+  "category": "dragonsurvival:custom",
+  "body": {
+    "model": "dragonsurvival:geo/dracotaur.geo.json",
+    "animations": "dragonsurvival:animations/dracotaur.animation.json",
+    "texture": "dragonsurvival:textures/dracotaur.png",
+    "width": 1.0,
+    "height": 2.2,
+    "eye_height": 1.9
+  },
+  "attributes": {
+    "dragonsurvival:health": 30.0,
+    "dragonsurvival:attack_damage": 4.0,
+    "dragonsurvival:movement_speed": 0.12,
+    "dragonsurvival:can_fly": true
+  },
+  "growth": {
+    "stages": [
+      {
+        "name": "dragonsurvival:dracotaur_adult",
+        "size": 1.0,
+        "health": 30
+      }
+    ]
+  }
+}

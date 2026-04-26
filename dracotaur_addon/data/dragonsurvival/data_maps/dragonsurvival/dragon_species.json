@@ -1,0 +1,13 @@
+{
+  "values": {
+    "dragonsurvival:dracotaur": {
+      "stages": {
+        "dragonsurvival:dracotaur_adult": {
+          "default_skin": {
+            "skin": "dragonsurvival:textures/dracotaur.png"
+          }
+        }
+      }
+    }
+  }
+}

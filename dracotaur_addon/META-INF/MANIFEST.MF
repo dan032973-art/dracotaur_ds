@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: dracotaur_ds
+Specification-Vendor: YourName
+Specification-Version: 1
+Implementation-Title: Dracotaur Add-on
+Implementation-Version: 1.0.0
+Implementation-Vendor: YourName
+Implementation-Timestamp: 2026-04-25T00:00:00+0000
